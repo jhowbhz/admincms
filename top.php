@@ -15,8 +15,6 @@
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link rel="stylesheet" href="components/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="components/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="components/Ionicons/css/ionicons.min.css">
-  <link rel="stylesheet" href="components/jvectormap/jquery-jvectormap.css">
   <link rel="stylesheet" href="dist/css/AdminLTE.min.css">
   <link rel="stylesheet" href="dist/css/skins/_all-skins.min.css">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
