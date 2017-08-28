@@ -1,5 +1,5 @@
 # cmslite
-CMSLite 1.0
+CMSLite
 
 Simples adaptação do Layout AdminLTE 2 para PHP
 Gostaria de deixar claro para a comunidade, essa adaptação foi desenvolvida para facilitar a minha vida, então as modificações aqui presentes, podem não ajudar vocês. Mas vou deixar claro o que mudei.
