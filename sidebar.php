@@ -24,7 +24,7 @@
         <a href="index.php">
           <i class="fa fa-dashboard"></i> <span>Dashboard</span>
           <span class="pull-right-container">
-            <small class="label pull-right bg-green">new</small>
+            <small class="label pull-right bg-green">novo</small>
           </span>
         </a>
       </li>
