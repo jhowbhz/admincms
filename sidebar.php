@@ -31,40 +31,14 @@
       <li class="treeview">
         <a href="#">
           <i class="fa fa-user"></i>
-          <span>Clientes</span>
+          <span>Menus</span>
           <span class="pull-right-container">
             <i class="fa fa-angle-left pull-right"></i>
           </span>
         </a>
         <ul class="treeview-menu">
-          <li><a href="pages/charts/chartjs.html"><i class="fa fa-circle-o"></i> Cadastrar</a></li>
-          <li><a href="pages/charts/morris.html"><i class="fa fa-circle-o"></i> Visualizar</a></li>
-        </ul>
-      </li>
-      <li class="treeview">
-        <a href="#">
-          <i class="fa fa-archive"></i>
-          <span>Estoque</span>
-          <span class="pull-right-container">
-            <i class="fa fa-angle-left pull-right"></i>
-          </span>
-        </a>
-        <ul class="treeview-menu">
-          <li><a href="pages/charts/chartjs.html"><i class="fa fa-circle-o"></i> Administrar</a></li>
-          <li><a href="pages/charts/morris.html"><i class="fa fa-circle-o"></i> Visualizar</a></li>
-        </ul>
-      </li>
-      <li class="treeview">
-        <a href="#">
-          <i class="fa fa-money"></i>
-          <span>Pedidos</span>
-          <span class="pull-right-container">
-            <i class="fa fa-angle-left pull-right"></i>
-          </span>
-        </a>
-        <ul class="treeview-menu">
-          <li><a href="pages/charts/chartjs.html"><i class="fa fa-circle-o"></i> Cadastrar</a></li>
-          <li><a href="pages/charts/morris.html"><i class="fa fa-circle-o"></i> Visualizar</a></li>
+          <li><a href="pagina1.php"><i class="fa fa-circle-o"></i> Menu 1</a></li>
+          <li><a href="pagina2.php"><i class="fa fa-circle-o"></i> Menu 2</a></li>
         </ul>
       </li>
     </ul>
