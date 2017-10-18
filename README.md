@@ -7,9 +7,7 @@ CMSLite 1.1
 - Separação dos components "extras"
 - Adicionado Sistema de login  
 
-=======
-
-## Utilidades?
+## O que da pra fazer com isso?
 - Início de projetos.
 - Paineis simples.
 
