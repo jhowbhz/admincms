@@ -4,6 +4,7 @@ CMSLite 1.1
 
 ## Recentes modificações
 - Bug Fix
+- Caminhos para URL's (Funções)
 - Separação dos components "extras"
 - Adicionado Sistema de login  
 
