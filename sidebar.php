@@ -33,25 +33,25 @@
       <li class="treeview">
         <a href="#">
           <i class="fa fa-user"></i>
-          <span>Projetos</span>
+          <span>Menu 1</span>
           <span class="pull-right-container">
             <i class="fa fa-angle-left pull-right"></i>
           </span>
         </a>
         <ul class="treeview-menu">
-          <li><a href="<?php view();?>meusprojetos.php"><i class="fa fa-circle-o"></i> Meus Projetos</a></li>
+          <li><a href="<?php view();?>pagina1.php"><i class="fa fa-circle-o"></i> Pagina 1</a></li>
         </ul>
 
         <li class="treeview">
           <a href="#">
             <i class="fa fa-user"></i>
-            <span>Financeiro</span>
+            <span>Menu 2</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="<?php view();?>financeiro.php"><i class="fa fa-circle-o"></i> Pagamentos</a></li>
+            <li><a href="<?php view();?>pagina2.php"><i class="fa fa-circle-o"></i> Pagina 2</a></li>
           </ul>
         </li>
       </li>
