@@ -9,7 +9,7 @@
 
 ?>
 <header class="main-header">
-  <a href="index.php" class="logo">
+  <a href="<?php home(); ?>" class="logo">
     <span class="logo-mini"><b>C</b>MS</span>
     <span class="logo-lg"><b>CMS</b>Lite 
       <span style="font-size: 10px">1.1</span></span>
