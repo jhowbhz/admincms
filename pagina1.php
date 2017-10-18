@@ -1,9 +1,10 @@
 <?php
-//////////////////////////////////////////
-// 		CRMLite Versão 1.0	 	 		//
-//		Developer: Jhon Fallon. 		//
-//		Site: fb.com/jhowbhz			//
-//////////////////////////////////////////
+//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+//    CMSLite Versão 1.1                    //
+//    Developer: Agencia 3WEB               //
+//    Site: agencia3web.com                 //
+//    GitHub: github.com/jhowbhz/CMSLite    //
+//@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 require_once('top.php'); 
 require_once('header.php'); 

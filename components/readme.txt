@@ -1,0 +1,1 @@
+Components essenciais para executar o painel

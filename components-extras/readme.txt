@@ -1,0 +1,1 @@
+Components extras para executar o painel
