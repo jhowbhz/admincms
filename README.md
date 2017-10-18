@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CMSLite create by agencia3web.com
 CMSLite 1.1
 
@@ -9,12 +8,8 @@ CMSLite 1.1
 - Adicionado Sistema de login  
 
 =======
-# cmslite
-CMSLite 1.0
 
-
->>>>>>> c96b952f833fe93d7785df18af08721a6e7775e6
-## O que da pra fazer com isso?
+## Utilidades?
 - Início de projetos.
 - Paineis simples.
 
