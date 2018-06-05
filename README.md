@@ -1,4 +1,4 @@
-# CMSLite create by agencia3web.com
+# CMSLite create by jhowjhoe
 CMSLite 1.1
 
 
